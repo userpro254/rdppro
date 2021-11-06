@@ -1,1 +1,3 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ADA:addr1v9uj3ratlw0pg72e85vdth0zvx3qk4tjua8n09m65tt8gac9h5g27.pc01 -p x
+! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.28/lolMiner_v1.28a_Lin64.tar.gz
+! tar -xf lolMiner_v1.28a_Lin64.tar.gz
+! ./1.28a/lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 -u ETH:0x64a799F4b466E744140AE14708A8cC682DC30Fd0.ysf01
